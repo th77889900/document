@@ -18,6 +18,7 @@ mysql
   mysql innodb存储引擎
   msql索引
   mysql锁
+  msyql事务
 持久化 herbinate mybatis 一二级缓存
 zookeeper
 dubbo
@@ -28,6 +29,10 @@ dubbo
   concurrentHashMap 实现原理
 java集合实现原理 list map
 java内存模型
+java bio nio aio
+java JVM调优  类加载过程
+
+
 
 
 
