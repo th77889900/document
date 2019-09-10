@@ -1,0 +1,18 @@
+
+项目
+
+es
+redis
+spring
+  spring源码 ioc di aop 事务  事务的隔离级别  bean的加载过程和生命周期
+spring boot
+springcloud
+  euraka注册中心
+  网关
+  hytrix
+  feign http调用
+  路由
+  负载均衡
+mysql
+  mysql调优
+  
